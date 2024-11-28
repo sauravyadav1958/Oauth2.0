@@ -4,5 +4,6 @@ spring:
       client:
         registration:
           google:
-
+            clientID:
+            clientSecret:
 
